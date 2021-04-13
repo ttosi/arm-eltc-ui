@@ -1,0 +1,19 @@
+.h3--primary {
+  color: #153d69;
+}
+
+.space-letters {
+  letter-spacing: 1px;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.config-form {
+  border: 1px solid #ccc;
+  background-color: #fff;
+  padding: 7px;
+  border-radius: 5px;
+  width: 100%;
+}
